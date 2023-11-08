@@ -9,9 +9,9 @@ struct ScrumProgressViewStyle: ProgressViewStyle {
 
     func makeBody(configuration: Configuration) -> some View {
         ZStack {
-            RoundedRectangle(cornerRadius: 10.0)
+            RoundedRectangle(cornerRadius: 15.0)
                 .fill(theme.accentColor)
-                .frame(height: 20.0)
+                .frame(height: 25.0)
             if #available(iOS 15.0, *) {
                 ProgressView(configuration)
                     .tint(theme.mainColor)

@@ -12,7 +12,7 @@ struct ThemeView: View {
     
     var body: some View {
         Text(theme.name)
-            .padding(4)
+            .padding(5)
             .frame(maxWidth: .infinity)
             .background(theme.mainColor)
             .foregroundColor(theme.accentColor)
