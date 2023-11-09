@@ -33,6 +33,7 @@
 
 /* Begin PBXFileReference section */
 		0701A21E2AFB6FFD002A2E0C /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
+		072236492AFC58ED0013F87F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		072C1CC52A678F6B00C972A0 /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		072C1CC82A678F6B00C972A0 /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		072C1CCA2A678F6B00C972A0 /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -93,6 +94,7 @@
 				072C1CCC2A678F6B00C972A0 /* Assets.xcassets */,
 				07360C492AFA1CD200B9F3BC /* SFX */,
 				072C1CCE2A678F6B00C972A0 /* Preview Content */,
+				072236492AFC58ED0013F87F /* README.md */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
